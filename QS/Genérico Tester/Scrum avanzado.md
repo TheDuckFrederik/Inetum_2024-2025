@@ -1,0 +1,1 @@
+[Scrum avanzado](https://openwebinars.net/academia/portada/scrum-avanzado/) 

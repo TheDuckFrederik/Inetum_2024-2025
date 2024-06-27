@@ -1,0 +1,1 @@
+[Curso Online de Metodologías ágiles](https://openwebinars.net/academia/aprende/metodologias-agiles/) the 

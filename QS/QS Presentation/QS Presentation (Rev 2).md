@@ -38,7 +38,7 @@ Las [[Tools for load and performance testing]] sirven para comprobar el tiempo d
 
 ### [[App testing tools]] (Herramientas para pruebas de aplicaciones)
 
-[[Appium]] una herraimuenta multiplataforma 
+[[Appium]] una herramienta multiplataforma que permite realizar tests en aplicaciones de Android, iOS, Windows y MacOS. Lo que más gusta de [[Appium]] es el hecho de que es muy versátil, ya que se pueden probar [[Native mobile apps]] (instalado, ejecutado e interactuado desde el sistema operativo), [[Mobile web apps]] () y [[Hybrid apps]]. Estos son los tipos de app más usados y como [[Selenium]] se pueden usar muchos [[Programming languages]], pero aun así se siguen usando [[Java]], [[JavaScript]] y [[Python]]. (finish and modify, [info](https://www.lambdatest.com/appium))
 
 ### [[Extensions]] (Extensiones)
 

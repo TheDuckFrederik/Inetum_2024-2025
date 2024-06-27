@@ -1,0 +1,1 @@
+[Curso de JMeter para la implementación de pruebas de rendimiento](https://openwebinars.net/academia/portada/jmeter-pruebas-rendimiento/) 
