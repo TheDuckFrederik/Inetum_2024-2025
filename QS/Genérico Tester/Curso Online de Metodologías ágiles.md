@@ -1,1 +1,2 @@
-[Curso Online de Metodologías ágiles](https://openwebinars.net/academia/aprende/metodologias-agiles/) the 
+[Curso Online de Metodologías ágiles](https://openwebinars.net/academia/aprende/metodologias-agiles/) ![[certificado_curso_online_de_metodologías_ágiles.pdf]]
+![[Captura de pantalla 2024-06-26 121327.png]]

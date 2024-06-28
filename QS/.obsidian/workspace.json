@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e86a7b383bd15e7c",
+        "id": "67553b6b72cc85b3",
         "type": "tabs",
         "children": [
           {
-            "id": "8ca3a8def8785d97",
+            "id": "1f005c7227a0ab95",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,9 +138,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ca3a8def8785d97",
+  "active": "1f005c7227a0ab95",
   "lastOpenFiles": [
+    "Genérico Tester/Scrum técnico.md",
+    "Assets/Scrum técnico/certificado_curso_de_scrum_técnico.pdf",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 082921.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114712.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114653.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114645.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114633.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114617.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114535.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114525.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114255.png",
+    "Assets/Scrum técnico/Screenshot 2024-06-28 114236.png",
+    "Genérico Tester/Curso Online de Metodologías ágiles.md",
+    "Genérico Tester/Scrum avanzado.md",
     "QS.md",
+    "QS Presentation/QS Presentation (Rev 1).md",
+    "QS Presentation/QS Presentation (Rev 2).md",
     "Genérico Tester/OpenWebinars.md",
     "Genérico Tester/Curso de Java QA.md",
     "Genérico Tester/Curso de Postman.md",
@@ -151,22 +167,10 @@
     "Genérico Tester/Curso de Selenium con Java intermedio.md",
     "Genérico Tester/Curso de Selenium con Java para principiantes.md",
     "Genérico Tester/Curso de LoadRunner.md",
-    "Genérico Tester/Scrum técnico.md",
     "Genérico Tester/Desarrollo Seguro.md",
     "Genérico Tester/Curso de testing con BDD.md",
     "Genérico Tester/Introducción al testing.md",
-    "Genérico Tester/Scrum avanzado.md",
     "Genérico Tester",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 100614.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130330.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130320.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130303.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130256.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130242.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130236.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 130201.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 121649.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-27 121613.png",
     "Assets/Curso de Java QA",
     "Assets/Curso de Postman",
     "Assets/Curso de Automatización de pruebas de una UI en Angular con Protractor",
@@ -175,17 +179,12 @@
     "Assets/Curso de JMeter para la implementación de pruebas de rendimiento",
     "Assets/Curso de Selenium con Java intermedio",
     "Assets/Curso de Selenium con Java para principiantes",
-    "Assets/Curso de LoadRunner",
-    "Genérico Tester/Curso Online de Metodologías ágiles.md",
-    "QS Presentation/QS Presentation (Rev 2).md",
     "Cheat sheet.md",
-    "QS Presentation/QS Presentation (Rev 1).md",
     "Tools for load and performance testing.md",
     "Test management tools.md",
     "Herramientas de reporte.md",
     "Untitled.canvas",
     "Theory.md",
-    "Herramientas de gestión de pruebas.md",
-    "Markup.md"
+    "Herramientas de gestión de pruebas.md"
   ]
 }
