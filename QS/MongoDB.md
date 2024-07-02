@@ -1,0 +1,1 @@
+A [[Non-relational database]] that we need to use in the [[First App]], the official [web](https://www.mongodb.com), can be useful for reading some documentation. The desktop app is called [Compass](https://www.mongodb.com/products/tools/compass).

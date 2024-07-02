@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f005c7227a0ab95",
+            "id": "4bf34b45783acf6b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "26a2ecbe185c9f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genérico Tester/Scrum avanzado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Genérico Tester/Scrum avanzado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Genérico Tester/Scrum avanzado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Genérico Tester/Scrum avanzado.md"
+              }
             }
           }
         ]
@@ -138,23 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f005c7227a0ab95",
+  "active": "26a2ecbe185c9f8a",
   "lastOpenFiles": [
-    "Genérico Tester/Scrum técnico.md",
-    "Assets/Scrum técnico/certificado_curso_de_scrum_técnico.pdf",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 082921.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114712.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114653.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114645.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114633.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114617.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114535.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114525.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114255.png",
-    "Assets/Scrum técnico/Screenshot 2024-06-28 114236.png",
-    "Genérico Tester/Curso Online de Metodologías ágiles.md",
     "Genérico Tester/Scrum avanzado.md",
+    "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
+    "Assets/Genérico Tester/Scrum avanzado/certificado_curso_de_scrum_avanzado.pdf",
+    "certificado_curso_de_scrum_avanzado.pdf",
+    "Screenshot 2024-07-02 122029.png",
+    "Assets/Fist App/test_1.json",
+    "1.py",
+    "Assets/Fist App/1.json",
+    "Assets/Fist App",
+    "Assets/Nueva carpeta",
+    "Assets/Genérico Tester/Desarrollo Seguro",
+    "Assets/Genérico Tester/Curso Online de Metodologías ágiles/certificado_curso_online_de_metodologías_ágiles.pdf",
+    "Assets/Genérico Tester/Curso Online de Metodologías ágiles/Captura de pantalla 2024-06-26 121327.png",
+    "Assets/Genérico Tester/Curso Online de Metodologías ágiles",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 120441.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 121136.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114712.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114653.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114645.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114633.png",
+    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114617.png",
+    "MongoDB.md",
+    "First App.md",
     "QS.md",
+    "Genérico Tester/Scrum técnico.md",
+    "Genérico Tester/Curso Online de Metodologías ágiles.md",
     "QS Presentation/QS Presentation (Rev 1).md",
     "QS Presentation/QS Presentation (Rev 2).md",
     "Genérico Tester/OpenWebinars.md",
@@ -170,21 +198,10 @@
     "Genérico Tester/Desarrollo Seguro.md",
     "Genérico Tester/Curso de testing con BDD.md",
     "Genérico Tester/Introducción al testing.md",
-    "Genérico Tester",
-    "Assets/Curso de Java QA",
-    "Assets/Curso de Postman",
-    "Assets/Curso de Automatización de pruebas de una UI en Angular con Protractor",
-    "Assets/Test-Driven Development",
-    "Assets/Curso de Testing de APIs con JMeter",
-    "Assets/Curso de JMeter para la implementación de pruebas de rendimiento",
-    "Assets/Curso de Selenium con Java intermedio",
-    "Assets/Curso de Selenium con Java para principiantes",
     "Cheat sheet.md",
     "Tools for load and performance testing.md",
     "Test management tools.md",
     "Herramientas de reporte.md",
-    "Untitled.canvas",
-    "Theory.md",
-    "Herramientas de gestión de pruebas.md"
+    "Untitled.canvas"
   ]
 }

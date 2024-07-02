@@ -1,0 +1,15 @@
+{
+    "firstName": "Unai",
+    "lastName": "Pujol",
+    "gender": "Apache Helicopter",
+    "age": "17",
+    "adress": {
+        "streetAdress": "Carrer Judjats, 10",
+        "city": "Reus",
+        "province": "Tarragona",
+        "postalCode": "43205"
+    },
+    "phoneNumbers": [
+        {"type": "home", "number": "640744237"}
+    ]
+}
