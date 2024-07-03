@@ -1,0 +1,23 @@
+{
+    "Posts": {
+        "Plates": {
+            "Name": "string",
+            "Description": "string",
+            "History": "string",
+            "Recipe": {
+                "Ingredients": "string",
+                "How to": "string"
+            }
+        },
+        "User": {
+            "Avatar": "string"
+        }
+    },
+    "User": {
+        "FirstName": "string",
+        "LastName": "string",
+        "E-mail": "string",
+        "Avatar": "string",
+        "Password": "string"
+    }
+}

@@ -16,19 +16,18 @@
             }
           },
           {
-            "id": "26a2ecbe185c9f8a",
+            "id": "0c51924ee64e0f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genérico Tester/Scrum avanzado.md",
+                "file": "JSON.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0d332e078d950adc",
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genérico Tester/Scrum avanzado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genérico Tester/Scrum avanzado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +131,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Genérico Tester/Scrum avanzado.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,8 +152,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a2ecbe185c9f8a",
+  "active": "4bf34b45783acf6b",
   "lastOpenFiles": [
+    "JSON.md",
+    "Assets/First App/JSON/Data_model.json",
+    "Assets/First App/JSON/test_1.json",
+    "Assets/First App/JSON",
+    "Cheat sheet.md",
+    "First App.md",
     "Genérico Tester/Scrum avanzado.md",
     "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
     "Assets/Genérico Tester/Scrum avanzado/certificado_curso_de_scrum_avanzado.pdf",
@@ -167,10 +170,7 @@
     "Assets/Fist App/1.json",
     "Assets/Fist App",
     "Assets/Nueva carpeta",
-    "Assets/Genérico Tester/Desarrollo Seguro",
-    "Assets/Genérico Tester/Curso Online de Metodologías ágiles/certificado_curso_online_de_metodologías_ágiles.pdf",
     "Assets/Genérico Tester/Curso Online de Metodologías ágiles/Captura de pantalla 2024-06-26 121327.png",
-    "Assets/Genérico Tester/Curso Online de Metodologías ágiles",
     "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 120441.png",
     "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 121136.png",
     "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114712.png",
@@ -179,7 +179,6 @@
     "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114633.png",
     "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114617.png",
     "MongoDB.md",
-    "First App.md",
     "QS.md",
     "Genérico Tester/Scrum técnico.md",
     "Genérico Tester/Curso Online de Metodologías ágiles.md",
@@ -198,10 +197,8 @@
     "Genérico Tester/Desarrollo Seguro.md",
     "Genérico Tester/Curso de testing con BDD.md",
     "Genérico Tester/Introducción al testing.md",
-    "Cheat sheet.md",
     "Tools for load and performance testing.md",
     "Test management tools.md",
-    "Herramientas de reporte.md",
     "Untitled.canvas"
   ]
 }
