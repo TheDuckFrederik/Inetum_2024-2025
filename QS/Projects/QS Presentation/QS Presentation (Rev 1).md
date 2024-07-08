@@ -1,4 +1,11 @@
-## Herramientas (Rev 2.1)
+## Herramientas (Rev 1.0)
+
+- [[Allure reports]] [docs](https://allurereport.org).
+- [[Frameworks]] ([[Selenium]] ([docs](https://www.selenium.dev)), movil ([[Android studio]] ([docs](https://developer.android.com/studio?hl=es-419)), inspectior))
+- [[IDE]] ([[VSCode]], [[Eclipse]] (mas seguro, menos versatil))
+- [[Extension pack for Java]] ([[Language Support for Java™ by Red Hat]], [[Debugger for Java]], [[Test Runner for Java]], [[Maven for Java]], [[Project Manager for Java]], [[Visual Studio IntelliCode]]), etc
+
+## Herramientas (Rev 1.1)
 
 ### [[Markup language]] (Lenguajes de markup)
 
@@ -18,7 +25,7 @@ Uno de los pilares de [[QS]] de webs es [[Selenium]], uno de los varios [[Framew
 
 ### [[Libraries]] (Librerías)
 
-[[Selenium]] vuelve a aparecer, no es solo uno de los [[Frameworks]], sino que también tiene un gran rango de herramientas para testing como [[Selenium]] [[IDE]], una extensión de navegador que loguea interacciones y genera el código correspondiente en uno de varios [[Programming language]].
+[[Selenium]] vuelve a aparecer, no es solo uno de los [[Frameworks]], sino que también tiene un gran rango de herramientas para testing como [[Selenium]] [[IDE]], una extensión de navegador que loguea interacciones y genera el código correspondiente en uno de varios [[Programming languages]].
 
 ### [[Test management tools]] (Herramientas de gestión de pruebas)
 
@@ -32,14 +39,9 @@ Estas son usadas para comprobar y gestionar el estado actual de varios test. Tam
 
 Las [[Tools for load and performance testing]] sirven para comprobar el tiempo de respuesta, rendimiento, utilización de recursos bajo una carga de trabajo considerable. Una de las mas populares es [[JMeter]].
 
-### [[API testing tools]] (Herramientas para pruebas de API’s)
-
-[[Postman]] una de la muchas [[API testing tools]], puede realizar varias pruebas sobre una [[API]] 
-
-### [[App testing tools]] (Herramientas para pruebas de aplicaciones)
-
-[[Appium]] una herramienta multiplataforma que permite realizar tests en aplicaciones de Android, iOS, Windows y MacOS. Lo que más gusta de [[Appium]] es el hecho de que es muy versátil, ya que se pueden probar [[Native mobile apps]] (instalado, ejecutado e interactuado desde el sistema operativo), [[Mobile web apps]] () y [[Hybrid apps]]. Estos son los tipos de app más usados y como [[Selenium]] se pueden usar muchos [[Programming languages]], pero aun así se siguen usando [[Java]], [[JavaScript]] y [[Python]]. (finish and modify, [info](https://www.lambdatest.com/appium))
-
 ### [[Extensions]] (Extensiones)
 
 Se usa mucho el [[Extension pack for Java]], ya que tiene todo lo necesario para tener la mejor experiencia con [[Java]]. Contiene: [[Language Support for Java™ by Red Hat]] (sintaxis, completación, navegación, formateo, snippets, etc.), [[Debugger for Java]], [[Test Runner for Java]] (run/debug java test cases), [[Maven for Java]] (extensión para manejar y navegar java de una mejor forma), [[Project Manager for Java]] (mejora y da más funciones al Java explorer), [[Visual Studio IntelliCode]] (Asistencia y sugerencias de AI para VSCode).
+
+
+Now the [[QS Presentation (Rev 2)]] is in order, we need to adapt the presentation for the QS Manager of Cat. For him it needs to be more technical, I will probably adapt most of the text but some will have to be rewriten.

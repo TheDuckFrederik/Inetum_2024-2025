@@ -4,11 +4,11 @@
 
 ## Presentation
 
- The first QS task has been a presentation to explain to our boss what is testing. Here is a link to the [[QS Presentation (Rev 1)]] then he gave us the task to make it more technical to present it to the QS Manager of Cat. So we made the [[QS Presentation (Rev 2)]] and adapted and rewrote some paragraphs.
+ The first QS task has been a presentation to explain to our boss what is testing. Here is a link to the [[QS Presentation (Rev 1)]] then he gave us the task to make it more technical to present it to the QS Manager of Cat. So we made the [[QS Presentation (Rev 2)]] and adapted and rewrote some paragraphs. Ended up adding in even more content.
 
 ## Formation
 
-To get us on our feet, especially since we don't all go to the same school/classes, they assigned us a few courses over at [[OpenWebinars]],
+To get us on our feet, especially since we don't all go to the same school/classes, they assigned us a few courses over at [[OpenWebinars]], #finish 
 
 ## [[Theory]]
 
@@ -16,4 +16,4 @@ There are some key concepts in [[QS]]: The two biggest methods that are the diff
 
 ## [[First App]]
 
-Our boss made us do an app
+Our boss made us do an app #finish

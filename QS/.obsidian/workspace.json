@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67553b6b72cc85b3",
+        "id": "9bfd203781635bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf34b45783acf6b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0c51924ee64e0f6b",
+            "id": "9820aec798ea5b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "Web scraping.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#finish",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0d332e078d950adc",
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web scraping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,11 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web scraping.md"
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,53 +147,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bf34b45783acf6b",
+  "active": "9820aec798ea5b9e",
   "lastOpenFiles": [
-    "JSON.md",
-    "Assets/First App/JSON/Data_model.json",
-    "Assets/First App/JSON/test_1.json",
-    "Assets/First App/JSON",
-    "Cheat sheet.md",
-    "First App.md",
+    "Projects/First App.md",
+    "Web scraping.md",
+    "Projects/QS Presentation/QS Presentation (Rev 2).md",
+    "Assets/First App/web_scrapping.py",
     "Genérico Tester/Scrum avanzado.md",
-    "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
-    "Assets/Genérico Tester/Scrum avanzado/certificado_curso_de_scrum_avanzado.pdf",
-    "certificado_curso_de_scrum_avanzado.pdf",
-    "Screenshot 2024-07-02 122029.png",
-    "Assets/Fist App/test_1.json",
-    "1.py",
-    "Assets/Fist App/1.json",
-    "Assets/Fist App",
-    "Assets/Nueva carpeta",
-    "Assets/Genérico Tester/Curso Online de Metodologías ágiles/Captura de pantalla 2024-06-26 121327.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 120441.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-27 121136.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114712.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114653.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114645.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114633.png",
-    "Assets/Genérico Tester/Scrum técnico/Screenshot 2024-06-28 114617.png",
-    "MongoDB.md",
-    "QS.md",
-    "Genérico Tester/Scrum técnico.md",
-    "Genérico Tester/Curso Online de Metodologías ágiles.md",
-    "QS Presentation/QS Presentation (Rev 1).md",
-    "QS Presentation/QS Presentation (Rev 2).md",
-    "Genérico Tester/OpenWebinars.md",
-    "Genérico Tester/Curso de Java QA.md",
-    "Genérico Tester/Curso de Postman.md",
-    "Genérico Tester/Curso de Automatización de pruebas de una UI en Angular con Protractor.md",
-    "Genérico Tester/Test-Driven Development.md",
-    "Genérico Tester/Curso de Testing de APIs con JMeter.md",
-    "Genérico Tester/Curso de JMeter para la implementación de pruebas de rendimiento.md",
-    "Genérico Tester/Curso de Selenium con Java intermedio.md",
-    "Genérico Tester/Curso de Selenium con Java para principiantes.md",
-    "Genérico Tester/Curso de LoadRunner.md",
-    "Genérico Tester/Desarrollo Seguro.md",
-    "Genérico Tester/Curso de testing con BDD.md",
+    "tpm.json",
+    "Assets/selenium_test_1.py",
+    "Assets/Genérico Tester/Introducción al testing/OperaSetup.exe.opdownload",
+    "Assets/Genérico Tester/Introducción al testing/OperaSetup.exe",
+    "Tools/Cheat sheet.md",
+    "Assets/QS Presentation/Rev 2.1/XPath for presentation.md",
     "Genérico Tester/Introducción al testing.md",
-    "Tools for load and performance testing.md",
-    "Test management tools.md",
+    "Assets/Genérico Tester/Introducción al testing/certificado_curso_de_introducción_al_testing.pdf",
+    "Assets/First App/JSON test.md",
+    "Languages/JSON.md",
+    "QS.md",
+    "Projects/QS Presentation/QS Presentation (Rev 1).md",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 123922.png",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 122726.png",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 122410.png",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 120755.png",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 120729.png",
+    "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 120642.png",
+    "Assets/QS Presentation/Rev 1.1/PractiTest.jpg",
+    "Assets/QS Presentation/Rev 1.1/Microsoft.VisualStudio.Services.Icons-2838434258-removebg-preview.png",
+    "Assets/QS Presentation/Rev 1.1/JMeter.png",
+    "Assets/QS Presentation/Rev 2.1",
+    "Assets/QS Presentation/Rev 1.1",
+    "Assets/Genérico Tester/Introducción al testing/21_-_Automatización_Práctica.pdf",
+    "Assets/Genérico Tester/Introducción al testing/21_-_Automatización_Práctica.pdf.opdownload",
+    "Languages/XML.md",
+    "Languages/XPath.md",
+    "Tools/API.md",
+    "Tools/Appium.md",
+    "Tools/VSCode.md",
+    "Tools/Android studio.md",
+    "Hybrid apps.md",
+    "Tools/Selenium.md",
+    "Tools/Test Runner for Java.md",
+    "Tools/Debugger for Java.md",
+    "Tools/Project Manager for Java.md",
+    "Tools/Visual Studio IntelliCode.md",
+    "Tools/Maven for Java.md",
+    "Tools/Language Support for Java™ by Red Hat.md",
+    "Tools/Extensions.md",
+    "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
     "Untitled.canvas"
   ]
 }
