@@ -11,12 +11,8 @@
             "id": "9820aec798ea5b9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web scraping.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web scraping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web scraping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web scraping.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -149,8 +141,10 @@
   },
   "active": "9820aec798ea5b9e",
   "lastOpenFiles": [
-    "Projects/First App.md",
+    "Assets/First App/web_scraping_XPath_best_100_foods.py",
+    "Assets/First App/web_scraping_XPath_searching copy.py",
     "Web scraping.md",
+    "Projects/First App.md",
     "Projects/QS Presentation/QS Presentation (Rev 2).md",
     "Assets/First App/web_scrapping.py",
     "Genérico Tester/Scrum avanzado.md",
@@ -178,7 +172,6 @@
     "Assets/QS Presentation/Rev 2.1",
     "Assets/QS Presentation/Rev 1.1",
     "Assets/Genérico Tester/Introducción al testing/21_-_Automatización_Práctica.pdf",
-    "Assets/Genérico Tester/Introducción al testing/21_-_Automatización_Práctica.pdf.opdownload",
     "Languages/XML.md",
     "Languages/XPath.md",
     "Tools/API.md",
@@ -193,7 +186,6 @@
     "Tools/Visual Studio IntelliCode.md",
     "Tools/Maven for Java.md",
     "Tools/Language Support for Java™ by Red Hat.md",
-    "Tools/Extensions.md",
     "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
     "Untitled.canvas"
   ]

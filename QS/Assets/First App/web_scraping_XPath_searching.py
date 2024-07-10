@@ -3,12 +3,12 @@ import requests
 import pandas as pd
 from lxml import html
 #
-url = "https://www.tasteatlas.com"
+url = "https://www.tasteatlas.com/best/dishes?ref=main-menu"
 page = requests.get(url)
 tree = html.fromstring(page.content)
 soup = BeautifulSoup(page.content, "html.parser")
 #
-xpath = '//*[@id="feed"]/div/section[10]/section/div[2]/div/div/div/a/h4'
+xpath = '//*[@id="BestTraditionalDishes"]/div[2]/div[1]/div/a/div'
 tr = tree.xpath(xpath)
 #
 print(tr)
