@@ -82,4 +82,5 @@ We think it's like that, but Kevin asked ChatGPT and got this:
   ]  
 }
 ```
+But we have to at least try API rest because the web doesen't work well with web scraping.
 #finish 
