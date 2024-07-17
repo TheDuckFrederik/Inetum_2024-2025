@@ -11,10 +11,8 @@
             "id": "9820aec798ea5b9e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "certificado_curso_de_testing_con_bdd.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "certificado_curso_de_testing_con_bdd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "certificado_curso_de_testing_con_bdd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "certificado_curso_de_testing_con_bdd.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,6 +141,11 @@
   },
   "active": "9820aec798ea5b9e",
   "lastOpenFiles": [
+    "Genérico Tester/Curso de Postman.md",
+    "godot.gd",
+    "Assets/Genérico Tester/Curso de Postman/Pasted image 20240715085949.png",
+    "Pasted image 20240715085949.png",
+    "Genérico Tester/Curso de LoadRunner.md",
     "Genérico Tester/Curso de testing con BDD.md",
     "certificado_curso_de_testing_con_bdd.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/6.1_Conclusiones.pdf",
@@ -157,7 +156,6 @@
     "Assets/Genérico Tester/Curso de testing con BDD/5.1_Qué_automatizamos_.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/4.4_Three_Amigos_.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/4.3_Complemento_ATDD_.pdf",
-    "Assets/Genérico Tester/Curso de testing con BDD/4.2_Pirámide_de_pruebas.pdf",
     "Web scraping.md",
     "Projects/First App.md",
     "Projects/QS Presentation/QS Presentation (Rev 2).md",
@@ -177,7 +175,6 @@
     "Assets/QS Presentation/Rev 1.1/Screenshot 2024-06-20 120642.png",
     "Assets/QS Presentation/Rev 1.1/PractiTest.jpg",
     "Assets/QS Presentation/Rev 1.1/Microsoft.VisualStudio.Services.Icons-2838434258-removebg-preview.png",
-    "Assets/QS Presentation/Rev 1.1/JMeter.png",
     "Languages/XML.md",
     "Languages/XPath.md",
     "Tools/API.md",
@@ -190,8 +187,6 @@
     "Tools/Debugger for Java.md",
     "Tools/Project Manager for Java.md",
     "Tools/Visual Studio IntelliCode.md",
-    "Tools/Maven for Java.md",
-    "Assets/Genérico Tester/Scrum avanzado/Screenshot 2024-07-02 122029.png",
     "Untitled.canvas"
   ]
 }
