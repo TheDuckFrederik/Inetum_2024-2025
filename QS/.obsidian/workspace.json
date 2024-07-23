@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfd203781635bbf",
+        "id": "49c9d1f3b3102f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "9820aec798ea5b9e",
+            "id": "168b10fe631f182b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Genérico Tester/Curso de LoadRunner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Genérico Tester/Curso de LoadRunner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Genérico Tester/Curso de LoadRunner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Genérico Tester/Curso de LoadRunner.md"
+              }
             }
           }
         ],
@@ -139,13 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9820aec798ea5b9e",
+  "active": "36914425b2e5b8c4",
   "lastOpenFiles": [
+    "Assets/Genérico Tester/Curso de LoadRunner/certificado_curso_de_loadrunner.pdf",
+    "certificado_curso_de_postman.pdf",
+    "Genérico Tester/Curso de LoadRunner.md",
     "Genérico Tester/Curso de Postman.md",
+    "Assets/Genérico Tester/Curso de Postman/certificado_curso_de_postman.pdf",
+    "Tools/API.md",
     "godot.gd",
     "Assets/Genérico Tester/Curso de Postman/Pasted image 20240715085949.png",
     "Pasted image 20240715085949.png",
-    "Genérico Tester/Curso de LoadRunner.md",
     "Genérico Tester/Curso de testing con BDD.md",
     "certificado_curso_de_testing_con_bdd.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/6.1_Conclusiones.pdf",
@@ -154,8 +166,6 @@
     "Assets/Genérico Tester/Curso de testing con BDD/5.3_Cómo_funciona.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/5.2_Quién_lo_hace.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/5.1_Qué_automatizamos_.pdf",
-    "Assets/Genérico Tester/Curso de testing con BDD/4.4_Three_Amigos_.pdf",
-    "Assets/Genérico Tester/Curso de testing con BDD/4.3_Complemento_ATDD_.pdf",
     "Web scraping.md",
     "Projects/First App.md",
     "Projects/QS Presentation/QS Presentation (Rev 2).md",
@@ -177,7 +187,6 @@
     "Assets/QS Presentation/Rev 1.1/Microsoft.VisualStudio.Services.Icons-2838434258-removebg-preview.png",
     "Languages/XML.md",
     "Languages/XPath.md",
-    "Tools/API.md",
     "Tools/Appium.md",
     "Tools/VSCode.md",
     "Tools/Android studio.md",
@@ -186,7 +195,6 @@
     "Tools/Test Runner for Java.md",
     "Tools/Debugger for Java.md",
     "Tools/Project Manager for Java.md",
-    "Tools/Visual Studio IntelliCode.md",
     "Untitled.canvas"
   ]
 }
