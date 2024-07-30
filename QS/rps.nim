@@ -23,7 +23,7 @@ while true:
       elif enemyChoiceNum == 3:
         enemyChoice = "Scissors"
 
-      echo "\n|--------------------|\n|-----1. Rock--------|\n|-----2. Paper-------|\n|-----3. Scissors----|\n|------4. Exit-------|\n|--------------------|"
+      echo "\n|--------------------|\n|-----1. Rock--------|\n|-----2. Paper-------|\n|-----3. Scissors----|\n|-----4. Exit--------|\n|--------------------|"
       let playerChoice = readLine(stdin)
 
       if playerChoice == "Rock" or playerChoice == "rock" or playerChoice == "1":
@@ -63,7 +63,6 @@ while true:
 
   elif menuChoice == "Exit" or menuChoice == "exit" or menuChoice == "2":
     echo "\n|--------------------|\n|------Exiting!------|\n|--------------------|\n"
-    break
     break
   else:
     echo "|--------------------|\n|-----Syntax err-----|\n|--Please try again--|\n|--------------------|"
