@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "49c9d1f3b3102f7c",
+        "id": "e205c664c7903ddc",
         "type": "tabs",
         "children": [
           {
-            "id": "168b10fe631f182b",
+            "id": "391a80c200e21ed4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genérico Tester/Curso de Selenium con Java para principiantes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genérico Tester/Curso de Selenium con Java para principiantes.md",
+                "file": "Genérico Tester/Desarrollo Seguro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genérico Tester/Curso de Selenium con Java para principiantes.md",
+                "file": "Genérico Tester/Desarrollo Seguro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genérico Tester/Curso de Selenium con Java para principiantes.md"
+                "file": "Genérico Tester/Desarrollo Seguro.md"
               }
             }
           }
@@ -149,6 +145,8 @@
   },
   "active": "36914425b2e5b8c4",
   "lastOpenFiles": [
+    "Assets/Genérico Tester/Desarrollo Seguro/certificado_curso_de_desarrollo_seguro.pdf",
+    "Genérico Tester/Curso de Selenium con Java para principiantes.md",
     "Assets/Genérico Tester/Curso de Selenium con Java para principiantes/certificado_curso_de_selenium_con_java_para_principiantes.pdf",
     "Genérico Tester/Curso de LoadRunner.md",
     "Assets/Genérico Tester/Curso de LoadRunner/certificado_curso_de_loadrunner.pdf",
@@ -165,7 +163,6 @@
     "Assets/Genérico Tester/Curso de testing con BDD/5.5_Cucumber_vs._JBehave.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/5.4_Principales_frameworks.pdf",
     "Assets/Genérico Tester/Curso de testing con BDD/5.3_Cómo_funciona.pdf",
-    "Assets/Genérico Tester/Curso de testing con BDD/5.2_Quién_lo_hace.pdf",
     "Web scraping.md",
     "Projects/First App.md",
     "Projects/QS Presentation/QS Presentation (Rev 2).md",
@@ -194,7 +191,6 @@
     "Tools/Selenium.md",
     "Tools/Test Runner for Java.md",
     "Tools/Debugger for Java.md",
-    "Tools/Project Manager for Java.md",
     "Untitled.canvas"
   ]
 }

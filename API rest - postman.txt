@@ -1,0 +1,18 @@
+API rest - postman
+Empezar curso postman 10-7-24
+
+Kevin - Backend & Testing
+Ramon - Frontend & Imagen corporativa 
+Ricard - BBDD & Seguridad
+Unai - UI & Testing
+Alex - Datos & AI
+
+Moure dev postman
+
+Imagen Corpo
+
+-Psicologia del color - Kevin
+-Morforlogia - Ricard
+-Tipografia - Unai (títulos - Montserrat (fina), texto - robotic (texto[de google] mas gordo)
+-Benchmarking (estudio de competencia) - Ramon
+-Diseno Basico - Alex
