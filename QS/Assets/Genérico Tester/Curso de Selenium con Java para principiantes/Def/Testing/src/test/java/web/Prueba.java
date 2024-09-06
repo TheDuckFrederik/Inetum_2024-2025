@@ -1,5 +1,4 @@
-package web;
-import java.io.IOException;
+package web; import java.io.IOException;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

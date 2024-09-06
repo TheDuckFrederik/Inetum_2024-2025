@@ -1,0 +1,21 @@
+Elements
+CP001_Text box
+CP002_Check box
+CP003_Radio Button
+CP004_Buttons
+CP005_Upload & download
+CP006_Dynamic properties
+Forms
+CP007_Practice Form
+Alerts, frame & windows
+CP008_Browser Windows
+CP009_Alerts
+CP00A_Frames
+CP00B_Nested Frames
+CP00C_Modal Dialogs
+Widgets
+CP00D_Data Picker
+CP00E_Slider
+CP00F_Progress Bar
+CP010_Menu
+CP011_Select Menu
