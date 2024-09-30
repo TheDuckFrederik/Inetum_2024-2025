@@ -11,7 +11,7 @@
             "id": "391a80c200e21ed4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -143,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36914425b2e5b8c4",
+  "active": "391a80c200e21ed4",
   "lastOpenFiles": [
     "Assets/Genérico Tester/Desarrollo Seguro/certificado_curso_de_desarrollo_seguro.pdf",
     "Genérico Tester/Curso de Selenium con Java para principiantes.md",
